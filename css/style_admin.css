@@ -1,0 +1,42 @@
+
+
+.container_admin {
+
+    width: 800px;
+    margin: 0 auto;
+
+
+
+}
+
+
+.copyright{
+
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.form-control{
+
+    text-align: center;
+
+}
+
+td,th{
+
+    text-align: center;
+
+}
+
+th{
+
+    background-color: #ddd;
+
+}
