@@ -1,0 +1,14 @@
+
+<!-- ========================== Innaer Banner ========================= -->
+
+
+	<section id="inner_banner">
+		<div class="overlay">
+			<div class="container">
+				<h3>Контакты</h3>
+			</div>
+		</div>
+	</section> <!-- /inner_banner -->
+
+
+<!-- ========================== /Innaer Banner ========================= -->

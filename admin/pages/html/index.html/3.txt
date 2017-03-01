@@ -1,0 +1,58 @@
+<!-- ======================== /We are Right Firm ==================== -->
+<section class="right_firm container">
+		<div class="title_holder_center title_holder">
+			<h3>Мы - <span class="firm">Юридическая компания</span></h3>
+			<span></span>
+			<p>Выбирая нас, вы доверяете нам и это верно!</p>
+		</div> <!-- /title_holder_center -->
+		<div class="some_achievement">
+			<div class="achive">
+				<p>Довольных клиентов</p>
+				<span class="ficon flaticon-user"></span>
+				<span class="timer" data-from="10" data-to="335" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Выйграно процессов</p>
+				<span class="ficon flaticon-message2"></span>
+				<span class="timer" data-from="10" data-to="289" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Сертификатов</p>
+				<span class="ficon flaticon-cup"></span>
+				<span class="timer" data-from="10" data-to="43" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Число подзащитных</p>
+				<span class="ficon flaticon-user2"></span>
+				<span class="timer" data-from="10" data-to="356" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Кружек кофе</p>
+				<span class="ficon flaticon-coffee"></span>
+				<span class="timer" data-from="10" data-to="5284" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="clear_fix"></div>
+		</div> <!-- /some_achievement -->
+		<div class="our_goal row">
+			
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 space_fix">
+				<div>
+					<h4 class="mTop">Наша миссия</h4>
+					<p>Задача организации, в особенности же рамки и место обучения кадров играет важную роль в формировании форм развития. Не следует, однако забывать, что новая модель организационной деятельности позволяет оценить значение систем массового участия. Товарищи! постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки форм развития. Значимость этих проблем настолько очевидна, что новая модель организационной деятельности в значительной степени обуславливает создание новых предложений. С другой стороны постоянный количественный рост и сфера нашей активности влечет за собой процесс внедрения и модернизации модели развития.</p>
+				</div>	
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ceo">
+				<div class="img_holder">
+					<img src="/images/home/1.jpg" alt="image" class="img-responsive">
+				</div>
+				<div class="ceo_speach">
+					<h4 class="mTop">Рашид</h4>
+					<span>Основатель и директор компании</span>
+					<p>Задача организации, в особенности же рамки и место обучения кадров играет важную роль в формировании форм развития. Не следует, однако забывать, что новая модель организационной деятельности позволяет оценить значение систем массового участия.</p>
+					<img src="/images/home/signature.png" alt="signature" style="margin-top:25px;">
+				</div> <!-- /ceo_speach -->
+			</div> <!-- /ceo -->
+		</div>
+	</section>
+
+<!-- ======================== /We are Right Firm ==================== -->

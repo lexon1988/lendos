@@ -1,0 +1,39 @@
+
+<!-- ================= Some Achievement Style two ================== -->
+
+
+	<div class="some_achievement_style_two space_fix">
+		<div class="container">
+			<div class="some_achievement">
+			<div class="achive">
+				<p>Довольных клиентов</p>
+				<span class="ficon flaticon-user"></span>
+				<span class="timer" data-from="10" data-to="335" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Выйграно процессов</p>
+				<span class="ficon flaticon-message2"></span>
+				<span class="timer" data-from="10" data-to="289" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Сертификатов</p>
+				<span class="ficon flaticon-cup"></span>
+				<span class="timer" data-from="10" data-to="43" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Число подзащитных</p>
+				<span class="ficon flaticon-user2"></span>
+				<span class="timer" data-from="10" data-to="356" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="achive">
+				<p>Кружек кофе</p>
+				<span class="ficon flaticon-coffee"></span>
+				<span class="timer" data-from="10" data-to="5284" data-speed="4500" data-refresh-interval="50">90</span>
+			</div>
+			<div class="clear_fix"></div>
+		</div> <!-- /some_achievement -->
+		</div>
+	</div> <!-- End .some_achievement_style_two -->
+
+
+<!-- ================= Some Achievement Style two ================== -->

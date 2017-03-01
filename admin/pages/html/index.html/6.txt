@@ -1,0 +1,115 @@
+<!-- ========================== Our Attorneys ========================-->
+
+	<section class="our_attorney container">
+		<div class="title_holder">
+			<p class="upper_title">Наши Экспреты</p>
+			<h3>Наши<span> Экспреты</span></h3>
+			<span></span>
+		</div>
+
+		<div class="row owl_slider">
+			<div id="attorney_slider">
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/12.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+							<h4>Юлия</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/13.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+							<h4>Павел</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/14.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+							<h4>Олег</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/15.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+							<h4>Михаил</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/12.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+							<h4>Юлия</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/13.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+							<h4>Павел</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/14.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+                            <h4>Олег</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+
+				<div class="item">
+					<div class="attorney_member">
+						<div class="img_holder">
+							<img src="/images/home/15.jpg" alt="images" class="img-responsive">							
+						</div> <!-- /img_holder -->
+						<div class="text">
+							<h4>Михаил</h4>
+							<span>Бизнес и финансы</span>							
+						</div>
+					</div> <!-- /attorney_member -->
+				</div>
+				
+			</div> <!-- /#attorney_slider -->
+			<div class="customNavigation">
+				 <a class="prev transition3s"><i class="fa fa-angle-left"></i></a>
+				 <a class="next transition3s"><i class="fa fa-angle-right"></i></a>
+			</div>
+		</div> <!-- /owl_slider -->
+	</section> <!-- /our_attorney -->
+
+<!-- ========================== /Our Attorneys ========================-->

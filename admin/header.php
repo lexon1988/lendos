@@ -18,7 +18,7 @@
 
     <!-- Fixed navbar -->
     <nav class="navbar navbar-inverse">
-        <div class="container_admin">
+        <div class="container">
 
 
                 <ul class="nav navbar-nav">
@@ -26,7 +26,9 @@
 
                     <li><a href="/admin/pages/index.php" class="navbar-brand"><span class="glyphicon glyphicon-save-file"></span> Страницы</a></li>
 
-                    <li><a href="/admin/faq.php" class="navbar-brand"><span class="glyphicon glyphicon-info-sign"></span> Инструкция</a></li>
+                    <li><a href="/admin/file_manager/index.php" class="navbar-brand"><span class="glyphicon glyphicon-info-sign"></span> Файловый менеджер</a></li>
+
+                    <li><a href="/admin/inf.php" class="navbar-brand"><span class="glyphicon glyphicon-info-sign"></span> Инструкция</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="/logout.php" class="navbar-brand">Выход <span class="glyphicon glyphicon-log-out"></span></a></li>
